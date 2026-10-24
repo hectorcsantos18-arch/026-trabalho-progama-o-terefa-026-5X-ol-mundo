@@ -1,0 +1,9 @@
+﻿int vez = 1;
+
+While(vez <= 10)
+{
+    Console.WriteLine("olá, mundo");
+    //Console.ReadKey();
+    vez = vez + 1;
+}
+// fim
